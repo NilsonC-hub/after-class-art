@@ -17,5 +17,24 @@
     "published_on": "2026-09-19",
     "video_bytes": 79492355,
     "video_sha256": "a19a049e1f6b1797a506ff5c9a917ecc4bc5bac29d6c852810513a1d2b052b48"
+  },
+  {
+    "number": 2,
+    "name": "折纸飞机",
+    "slug": "0TWHu1DPAZ_sBBAA4zRdvg",
+    "duration": 401.083333,
+    "description": "用简单的三角形和明暗变化，画出有折痕的纸飞机。",
+    "materials": [
+      "iPad 与 Procreate",
+      "2500 × 2500 像素的方形画布",
+      "可使用自己喜欢的颜色"
+    ],
+    "practice": [
+      "留意纸张各面的亮暗关系。",
+      "改变飞机颜色，再检查边缘是否整齐。"
+    ],
+    "published_on": "2026-09-24",
+    "video_bytes": 78957677,
+    "video_sha256": "f21cfd434534e191e637860c0bf11785ab3c3307284ad25c74f4ad18191165cd"
   }
 ]
