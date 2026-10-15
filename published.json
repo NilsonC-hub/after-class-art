@@ -16,7 +16,11 @@
     ],
     "published_on": "2026-09-19",
     "video_bytes": 79492355,
-    "video_sha256": "a19a049e1f6b1797a506ff5c9a917ecc4bc5bac29d6c852810513a1d2b052b48"
+    "video_sha256": "a19a049e1f6b1797a506ff5c9a917ecc4bc5bac29d6c852810513a1d2b052b48",
+    "series": "趣味绘画",
+    "series_number": 1,
+    "author": "Art with Flo",
+    "release_order": 1
   },
   {
     "number": 2,
@@ -35,6 +39,34 @@
     ],
     "published_on": "2026-09-24",
     "video_bytes": 78957677,
-    "video_sha256": "f21cfd434534e191e637860c0bf11785ab3c3307284ad25c74f4ad18191165cd"
+    "video_sha256": "f21cfd434534e191e637860c0bf11785ab3c3307284ad25c74f4ad18191165cd",
+    "series": "趣味绘画",
+    "series_number": 2,
+    "author": "Art with Flo",
+    "release_order": 2
+  },
+  {
+    "number": 11,
+    "release_order": 3,
+    "series": "图案设计",
+    "series_number": 1,
+    "author": "Genevieve's Design Studio",
+    "name": "无缝图案设计",
+    "slug": "iGVx2f7fR2mhx8bdkIx32Q",
+    "duration": 624.916667,
+    "description": "画一组小橙子，学会复制、对齐和检查接缝，让图案向四周连续铺开。",
+    "materials": [
+      "iPad 与 Procreate，可使用兼容触控笔",
+      "示范画布：5 × 5 英寸、150 DPI、RGB（750 × 750 像素）",
+      "背景单独放在普通图层；复制前保留备份"
+    ],
+    "practice": [
+      "把小橙子换成自己喜欢的水果，保留清楚的轮廓。",
+      "复制四份缩小后的图案，拼成一张大图，放大检查接缝。",
+      "换一组背景和图案颜色，对比哪一组更容易看清细节。"
+    ],
+    "published_on": "2026-10-15",
+    "video_bytes": 81455511,
+    "video_sha256": "4ac56e423c06961aad412f208b624cdca59b5a40c0b003d8ea01fbcb9399ca86"
   }
 ]
