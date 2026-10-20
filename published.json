@@ -68,5 +68,28 @@
     "published_on": "2026-10-15",
     "video_bytes": 81455511,
     "video_sha256": "4ac56e423c06961aad412f208b624cdca59b5a40c0b003d8ea01fbcb9399ca86"
+  },
+  {
+    "number": 5,
+    "release_order": 4,
+    "series": "趣味绘画",
+    "series_number": 5,
+    "author": "Art with Flo",
+    "name": "发光月牙",
+    "slug": "a0CzxOFR4x_0K5dUgS87bQ",
+    "duration": 214.583333,
+    "description": "用月牙、星星和发光效果，做一张小小的夜空画。",
+    "materials": [
+      "iPad 与 Procreate",
+      "2500 × 2500 像素的方形画布",
+      "可使用自己喜欢的颜色"
+    ],
+    "practice": [
+      "先整理图形，再调整发光强度。",
+      "改变背景颜色，比较画面的气氛。"
+    ],
+    "published_on": "2026-10-20",
+    "video_bytes": 48585552,
+    "video_sha256": "e2642da2848db24ccd589c671c138ca95e2222dc301ffb9ea64324ff9f1afcbc"
   }
 ]
