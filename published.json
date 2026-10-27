@@ -91,5 +91,28 @@
     "published_on": "2026-10-20",
     "video_bytes": 48585552,
     "video_sha256": "e2642da2848db24ccd589c671c138ca95e2222dc301ffb9ea64324ff9f1afcbc"
+  },
+  {
+    "number": 8,
+    "release_order": 5,
+    "series": "趣味绘画",
+    "series_number": 8,
+    "author": "Art with Flo",
+    "name": "热气咖啡杯",
+    "slug": "VNIhfm0OSdAI7K_mkIyEwQ",
+    "duration": 257.0,
+    "description": "用图层和选区画出杯子，再添上阴影与热气。",
+    "materials": [
+      "iPad 与 Procreate",
+      "2500 × 2500 像素的方形画布",
+      "可使用自己喜欢的颜色"
+    ],
+    "practice": [
+      "检查杯柄前后的遮挡关系。",
+      "轻一点画热气，让线条自然地上升。"
+    ],
+    "published_on": "2026-10-27",
+    "video_bytes": 58461734,
+    "video_sha256": "c31eed8976f0bdce25c04eb264aadf8386bd01a6ffde5c0eeb696078866d2046"
   }
 ]

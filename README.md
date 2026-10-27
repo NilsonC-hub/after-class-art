@@ -8,3 +8,4 @@
 - 第 2 节：折纸飞机（趣味绘画 · 第 2 课），原作 Art with Flo。
 - 第 3 节：无缝图案设计（图案设计 · 第 1 课），原作 Genevieve's Design Studio。
 - 第 4 节：发光月牙（趣味绘画 · 第 5 课），原作 Art with Flo。
+- 第 5 节：热气咖啡杯（趣味绘画 · 第 8 课），原作 Art with Flo。
